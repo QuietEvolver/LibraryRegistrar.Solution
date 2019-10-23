@@ -102,4 +102,4 @@ You can learn more about our vision for Catalogue: Hair Salon in the [**LibraryR
 | quietevolver| [quietevolver](https://github.com/quietevolver) |  [quiet.evolver@gmail.com](mailto:quietevolver@gmail.com) |
 
 ## 📄 License
- MIT licensed, as found in the [LICENSE][l] file.
+ MIT licensed, as found in the [LICENSE][http://www.law.uh.edu/faculty/wstreng/Leiden/LLM1ChoiceofEntityCHARTS.pdf] file.

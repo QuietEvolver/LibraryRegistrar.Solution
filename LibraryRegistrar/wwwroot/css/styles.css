@@ -4,3 +4,7 @@ body {
   color: aqua;
   background-color: aliceblue;
 }
+
+.jumbotron {
+  background-color: rgb(40, 100, 102);
+}
